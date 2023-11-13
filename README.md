@@ -1,6 +1,11 @@
 
 # UI/UX-GPT-3
-![image](https://github.com/nazia3310/UI-UX-GPT3/assets/114797471/f9068faf-8589-499c-9f96-db4c56d2060c)
+React Functional components and their reusability
+React file and folder structure
+Fundamental CSS properties to master flex & grid
+Fundamentals of the CSS BEM Model
+From soft and pleasant animations to complex gradients
+Perfectly placed media queries for satisfactory responsiveness covering almost devices
 
 
 
